@@ -1,0 +1,10 @@
+E:\New folder\WebApplication1\DataLayer\bin\Debug\DataLayer.dll.config
+E:\New folder\WebApplication1\DataLayer\bin\Debug\DataLayer.dll
+E:\New folder\WebApplication1\DataLayer\bin\Debug\DataLayer.pdb
+E:\New folder\WebApplication1\DataLayer\bin\Debug\EntityFramework.dll
+E:\New folder\WebApplication1\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder\WebApplication1\DataLayer\bin\Debug\EntityFramework.xml
+E:\New folder\WebApplication1\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder\WebApplication1\DataLayer\obj\Debug\DataLayer.dll
+E:\New folder\WebApplication1\DataLayer\obj\Debug\DataLayer.pdb
+E:\New folder\WebApplication1\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
